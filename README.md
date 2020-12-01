@@ -1,2 +1,4 @@
 # LeetCode
-一个菜鸟的成长之路, LeetCode by myself!
+| # | Tags| Title | Solution | Difficulty|
+| ---- | ---- | ---- | ----| ---- |
+| 26| Array |Remove Duplicates from Sorted Array | JavaScript| Easy|
