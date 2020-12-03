@@ -18,5 +18,4 @@ var hasGroupsSizeX = function(deck) {
  
    return false;
  };
-
 // 我竟然和评论区的一位朋友做的及其相同, 真是 xx 所见略同😄
