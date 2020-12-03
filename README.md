@@ -5,3 +5,4 @@
 | 80 | Array | Remove Duplicates from Sorted Array Ⅱ | JavaScript | Medium |
 | 35 | Array | searchInsert | JavaScript | Easy |
 | 914 | Array | X of a Kind in a Deck of Cards | JavaScript | Easy |
+| 1672 | Array | Richest Customer Wealth | JavaScript | Easy |
