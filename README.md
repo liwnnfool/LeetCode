@@ -8,3 +8,4 @@
 | 1672 | Array | Richest Customer Wealth | JavaScript | Easy |
 | 1295 | Array | Find Numbers with Even Number of Digits | JavaScript | Easy |
 | 1512 | Array | Number of Good Pairs | JavaScript | Easy |
+| 1431 | Array | Kids With the Greatest Number of Candies | JavaScript | Easy |
