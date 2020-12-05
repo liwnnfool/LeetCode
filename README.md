@@ -9,3 +9,4 @@
 | 1295 | Array | Find Numbers with Even Number of Digits | JavaScript | Easy |
 | 1512 | Array | Number of Good Pairs | JavaScript | Easy |
 | 1431 | Array | Kids With the Greatest Number of Candies | JavaScript | Easy |
+| 1480 | Array | Running Sum of 1d Array | JavaScript | Easy |
