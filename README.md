@@ -10,3 +10,4 @@
 | 1512 | Array | Number of Good Pairs | JavaScript | Easy |
 | 1431 | Array | Kids With the Greatest Number of Candies | JavaScript | Easy |
 | 1480 | Array | Running Sum of 1d Array | JavaScript | Easy |
+| 1470 | Array | Shuffle the Array | JavaScript | Easy |
