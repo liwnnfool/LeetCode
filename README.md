@@ -14,7 +14,7 @@
 | 1480 | Array | Running Sum of 1d Array | JavaScript | Easy |
 | 1470 | Array | Shuffle the Array | JavaScript | Easy |
 | 1365 | Array | How Many Numbers Are Smaller Than the Current Number | JavaScript | Easy |
-|  | Array |  | JavaScript | Easy |
+| 169 | Array | Majority Element | JavaScript | Easy |
 |  | Array |  | JavaScript | Easy |
 |  | Array |  | JavaScript | Easy |
 |  | Array |  | JavaScript | Easy |
