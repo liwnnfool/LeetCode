@@ -15,8 +15,8 @@
 | 1470 | Array | Shuffle the Array | JavaScript | Easy |
 | 1365 | Array | How Many Numbers Are Smaller Than the Current Number | JavaScript | Easy |
 | 169 | Array | Majority Element | JavaScript | Easy |
-|  | Array |  | JavaScript | Easy |
-|  | Array |  | JavaScript | Easy |
+| 283 | Array | Move Zeroes | JavaScript | Easy |
+| 121 | Array | Best Time to Buy and Sell Stock | JavaScript | Easy |
 |  | Array |  | JavaScript | Easy |
 |  | Array |  | JavaScript | Easy |
 |  | Array |  | JavaScript | Easy |
