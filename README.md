@@ -17,7 +17,7 @@
 | 169 | Array | Majority Element | JavaScript | Easy |
 | 283 | Array | Move Zeroes | JavaScript | Easy |
 | 121 | Array | Best Time to Buy and Sell Stock | JavaScript | Easy |
-|  | Array |  | JavaScript | Easy |
+| 136 | Array | Single Number | Easy |
 |  | Array |  | JavaScript | Easy |
 |  | Array |  | JavaScript | Easy |
 |  | Array |  | JavaScript | Easy |
