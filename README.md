@@ -18,7 +18,7 @@
 | 283 | Array | Move Zeroes | JavaScript | Easy |
 | 121 | Array | Best Time to Buy and Sell Stock | JavaScript | Easy |
 | 136 | Array | Single Number | JavaScript |Easy |
-|  | Array |  | JavaScript | Easy |
+| 66 | Array | Plus One | JavaScript | Easy |
 |  | Array |  | JavaScript | Easy |
 |  | Array |  | JavaScript | Easy |
 | 80 | Array | Remove Duplicates from Sorted Array Ⅱ | JavaScript | Medium |
