@@ -19,7 +19,7 @@
 | 121 | Array | Best Time to Buy and Sell Stock | JavaScript | Easy |
 | 136 | Array | Single Number | JavaScript |Easy |
 | 66 | Array | Plus One | JavaScript | Easy |
-|  | Array |  | JavaScript | Easy |
+| 88 | Array | Merge Sorted Array | JavaScript | Easy |
 |  | Array |  | JavaScript | Easy |
 | 80 | Array | Remove Duplicates from Sorted Array Ⅱ | JavaScript | Medium |
 |  | Array |  | JavaScript | Medium |
