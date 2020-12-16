@@ -20,9 +20,9 @@
 | 136 | Array | Single Number | JavaScript |Easy |
 | 66 | Array | Plus One | JavaScript | Easy |
 | 88 | Array | Merge Sorted Array | JavaScript | Easy |
-|  | Array |  | JavaScript | Easy |
+| 268 | Array | Missing Number | JavaScript | Easy |
 | 80 | Array | Remove Duplicates from Sorted Array Ⅱ | JavaScript | Medium |
-|  | Array |  | JavaScript | Medium |
+| 78 | Array | Subsets | JavaScript | Medium |
 |  | Array |  | JavaScript | Medium |
 |  | Array |  | JavaScript | Medium |
 |  | Array |  | JavaScript | Medium |
