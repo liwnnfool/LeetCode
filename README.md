@@ -23,7 +23,7 @@
 | 268 | Array | Missing Number | JavaScript | Easy |
 | 80 | Array | Remove Duplicates from Sorted Array Ⅱ | JavaScript | Medium |
 | 78 | Array | Subsets | JavaScript | Medium |
-|  | Array |  | JavaScript | Medium |
+| 48 | Array | Rotate Image | JavaScript | Medium |
 |  | Array |  | JavaScript | Medium |
 |  | Array |  | JavaScript | Medium |
 |  | Array |  | JavaScript | Medium |
