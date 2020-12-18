@@ -24,7 +24,7 @@
 | 80 | Array | Remove Duplicates from Sorted Array Ⅱ | JavaScript | Medium |
 | 78 | Array | Subsets | JavaScript | Medium |
 | 48 | Array | Rotate Image | JavaScript | Medium |
-|  | Array |  | JavaScript | Medium |
+| 79 | Array | Word Search | JavaScript | Medium |
 |  | Array |  | JavaScript | Medium |
 |  | Array |  | JavaScript | Medium |
 |  | Array |  | JavaScript | Medium |
