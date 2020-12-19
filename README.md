@@ -25,7 +25,7 @@
 | 78 | Array | Subsets | JavaScript | Medium |
 | 48 | Array | Rotate Image | JavaScript | Medium |
 | 79 | Array | Word Search | JavaScript | Medium |
-|  | Array |  | JavaScript | Medium |
+| 62 | Array | Unique Paths | JavaScript | Medium |
 |  | Array |  | JavaScript | Medium |
 |  | Array |  | JavaScript | Medium |
 |  | Array |  | JavaScript | Medium |
