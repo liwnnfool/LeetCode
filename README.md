@@ -26,7 +26,7 @@
 | 48 | Array | Rotate Image | JavaScript | Medium |
 | 79 | Array | Word Search | JavaScript | Medium |
 | 62 | Array | Unique Paths | JavaScript | Medium |
-|  | Array |  | JavaScript | Medium |
+| 75 | Array | Sort Colors | JavaScript | Medium |
 |  | Array |  | JavaScript | Medium |
 |  | Array |  | JavaScript | Medium |
 |  | Array |  | JavaScript | Medium |
