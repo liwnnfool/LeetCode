@@ -39,7 +39,7 @@ var findDuplicate = function(nums) {
  *                                           ↑(nums[1]) <-            <-            <- ↓
  * They meet!
  * 
- * First we can find where slow and pointers meet;
+ * First we can find where slow and fast meet;
  * Because it's a cycle, so I can find the beginning, and beginning means duplicate number
  */
 var findDuplicate = function(nums) {
