@@ -40,7 +40,7 @@ var findDuplicate = function(nums) {
  * They meet!
  * 
  * First we can find where slow and fast meet;
- * Because it's a cycle, so I can find the beginning, and beginning means duplicate number
+ * Because it's a cycle, so I can find the beginning of cycle, and beginning means duplicate number
  */
 var findDuplicate = function(nums) {
   let slow = nums[0],
