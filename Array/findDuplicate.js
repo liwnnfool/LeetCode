@@ -83,4 +83,6 @@ var findDuplicate = function(nums) {
  * 
  * slow = 0
  * loop: slow = nums[slow], fast = nums[fast]
+ * 
+ * Oh my God, I finally found you!
  */
