@@ -80,4 +80,7 @@ var findDuplicate = function(nums) {
  * 
  * 3. The slow pointer starts from the head, the fast pointer starts from the location, one step at a time
  *    Eventually they will meet at the beginning of cycle
+ * 
+ * slow = 0
+ * loop: slow = nums[slow], fast = nums[fast]
  */
