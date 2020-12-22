@@ -28,6 +28,6 @@
 | 62 | Array | Unique Paths | JavaScript | Medium |
 | 75 | Array | Sort Colors | JavaScript | Medium |
 | 287 | Array | Find the Duplicate Number | JavaScript | Medium |
-|  | Array |  | JavaScript | Medium |
+| 238 | Array | Product of Array Except Self | JavaScript | Medium |
 |  | Array |  | JavaScript | Medium |
 |  | Array |  | JavaScript | Medium |
