@@ -29,5 +29,5 @@
 | 75 | Array | Sort Colors | JavaScript | Medium |
 | 287 | Array | Find the Duplicate Number | JavaScript | Medium |
 | 238 | Array | Product of Array Except Self | JavaScript | Medium |
-|  | Array |  | JavaScript | Medium |
+| 289 | Array | Game of Life | JavaScript | Medium |
 |  | Array |  | JavaScript | Medium |
