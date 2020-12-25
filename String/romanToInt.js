@@ -1,6 +1,6 @@
 var romanToInt = function(s) {
   const dict = {
-   I: 1,
+   I: 1,     
    V: 5,
    X: 10,
    L: 50,
